@@ -1,3 +1,3 @@
 # Netflix-clone
 
-https://sudhirmusicplayer.netlify.app
+https://netflixclon11.netlify.app
